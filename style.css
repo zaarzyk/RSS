@@ -1,0 +1,70 @@
+.naglowek{
+	
+	width: 100%;
+	
+
+}
+.przycisk1{
+		float:right;
+	color: #fff;
+  background-color: #c9302c;
+  border-color: #ac2925;
+
+}
+.przycisk2{
+	float:right;
+	 color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+.przycisk3{
+	
+	float:right;
+	 color: #fff;
+  background-color: #449d44;
+  border-color: #398439;
+}
+
+
+h1{
+	color:white;
+}
+.pierwszy{
+width: 50%;
+float:left;
+}
+
+.drugi{
+width: 50%;
+float:right;
+}
+
+.lewy{
+	width: 50%;
+	float: left;
+	
+}
+.prawy{
+	width: 40%;
+	
+}
+
+.wyswietlacz{
+	width: 50%;
+	height: 30%;
+	float: left;
+	clear:both;
+	
+}
+
+.lista{
+	width: 40%;
+	
+	}
+
+
+
+body{
+	 background-color: #000020;
+	 font: 14px sans-serif; 
+}
